@@ -1,0 +1,4 @@
+
+bind "f9" "buy m4a1; buy ak47; slot1; drop"
+bind "f10" "buy deagle; buy p250; buy fiveseven; buy tec9; buy p250; buy defuser;"
+bind "f11" "buy awp; slot1; drop"
